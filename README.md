@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sergi Villalobos Gascón</h1>
+<h1 align="center">Sergi Villalobos Gascón</h1>
 <h3 align="center">📍 Barcelona, Spain</h3>
 <h3 align="center">Full Stack Developer</h3>
 
