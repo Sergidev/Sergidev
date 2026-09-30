@@ -6,6 +6,7 @@
 
 <h3 align="left">🔭 Projects:</h3>
 -  [PetConnect](https://github.com/4GeeksAcademy/PetConnect-sp137)
+
 -  [Heroes of Eurand](https://play.google.com/store/apps/details?id=com.WolveshireGames.HeroesOfEurand&utm_source=emea_Med)
 
 <h3 align="left">📫 How to reach me:</h3>
