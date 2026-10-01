@@ -5,8 +5,9 @@
 <p align="left">Specialist in software architecture and interactive media. Holding a Bachelor's Degree in Interactive Digital Content from ENTI UB and Full-Stack Developer training from 4Geeks Academy, robust technical expertise in C#, Python, JavaScript, React, Node.js, Flask, PHP, SQL, and Unity3D. My professional trajectory includes roles as a Systems Engineer at Indra Group and a Game Developer at Bliss Games, designing scalable MVC architectures, optimizing code performance for large-scale applications, managing database systems, and mentoring junior engineers.  In my recent work as a Freelance Developer, I've successfully built and published Heroes of Eurand, an action real-time strategy RPG for Android developed with Unity3D, C#, MySQL/PHP backend, and QUDO Blockchain integration. This project highlights my ability to handle end-to-end solo development, incorporating AI-assisted workflows, game mechanics design, UI/UX optimization, and monetization systems. I'm native in Spanish and Catalan languages and advanced in English, enabling seamless collaboration in multidisciplinary technical environments.</p>
 
 <h3 align="left">🔭 Projects:</h3>
-<p>-  [PetConnect](https://github.com/4GeeksAcademy/PetConnect-sp137)</p>
-<p>-  [Heroes of Eurand](https://play.google.com/store/apps/details?id=com.WolveshireGames.HeroesOfEurand&utm_source=emea_Med)</p>
+<p>-  [Razerware] (https://razerware.vercel.app/)</p>
+<p>-  [PetConnect] (https://github.com/4GeeksAcademy/PetConnect-sp137)</p>
+<p>-  [Heroes of Eurand] (https://play.google.com/store/apps/details?id=com.WolveshireGames.HeroesOfEurand&utm_source=emea_Med)</p>
 
 <h3 align="left">📫 How to reach me:</h3>
 **servigadev@gmail.com**
